@@ -1,6 +1,6 @@
-The dataset is stored in Zenodo:
+The dataset is stored in Zenodo: https://zenodo.org/records/12103135
 
-  Extract all the Zenodo files here. 
+  Extract all the Zenodo files here, in 'data2024/processed/'
   You should get 14 folders here:
       00-images
       AC
